@@ -1,6 +1,6 @@
-package com.springmvc.repository;
+package com.springbegin.repository;
 
-import com.springmvc.domain.Member;
+import com.springbegin.domain.Member;
 import org.springframework.jdbc.datasource.DataSourceUtils;
 import javax.sql.DataSource;
 import java.sql.*;

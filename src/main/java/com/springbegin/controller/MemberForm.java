@@ -1,4 +1,4 @@
-package com.springmvc.controller;
+package com.springbegin.controller;
 
 public class MemberForm {
     private String name;

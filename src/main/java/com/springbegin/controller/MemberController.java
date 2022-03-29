@@ -1,7 +1,7 @@
-package com.springmvc.controller;
+package com.springbegin.controller;
 
-import com.springmvc.domain.Member;
-import com.springmvc.service.MemberService;
+import com.springbegin.domain.Member;
+import com.springbegin.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

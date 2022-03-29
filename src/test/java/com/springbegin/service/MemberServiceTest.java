@@ -1,8 +1,8 @@
-package com.springmvc.service;
+package com.springbegin.service;
 
-import com.springmvc.domain.Member;
+import com.springbegin.domain.Member;
 
-import com.springmvc.repository.MemoryMemberRepository;
+import com.springbegin.repository.MemoryMemberRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

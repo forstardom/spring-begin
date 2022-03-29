@@ -1,6 +1,6 @@
-package com.springmvc.repository;
+package com.springbegin.repository;
 
-import com.springmvc.domain.Member;
+import com.springbegin.domain.Member;
 
 import javax.persistence.EntityManager;
 import java.util.List;

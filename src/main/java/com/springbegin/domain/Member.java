@@ -1,4 +1,4 @@
-package com.springmvc.domain;
+package com.springbegin.domain;
 
 import javax.persistence.*;
 

@@ -1,8 +1,7 @@
-package com.springmvc;
+package com.springbegin;
 
-import com.springmvc.repository.JpaMemberRepository;
-import com.springmvc.repository.MemberRepository;
-import com.springmvc.service.MemberService;
+import com.springbegin.repository.MemberRepository;
+import com.springbegin.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

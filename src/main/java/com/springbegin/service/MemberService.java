@@ -1,10 +1,7 @@
-package com.springmvc.service;
+package com.springbegin.service;
 
-import com.springmvc.domain.Member;
-import com.springmvc.repository.MemberRepository;
-import com.springmvc.repository.MemoryMemberRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
+import com.springbegin.domain.Member;
+import com.springbegin.repository.MemberRepository;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
