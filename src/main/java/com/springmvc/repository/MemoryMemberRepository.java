@@ -1,6 +1,8 @@
 package com.springmvc.repository;
 
 import com.springmvc.domain.Member;
+import org.springframework.aop.scope.ScopedProxyUtils;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
